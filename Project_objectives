@@ -1,0 +1,27 @@
+ Project Objectives ;
+The main objective of the Blood Bank Management System is to develop a web-based application that automates and simplifies the management of blood bank operations, including donor records, blood inventory, donations, and blood requests.
+
+Specific Objectives :
+1.To maintain donor information efficiently :
+Store and manage donor details such as name, blood group, contact information, and donation history.
+2.To manage blood inventory effectively :
+Track available blood units of different blood groups and maintain accurate stock records.
+3.To record and monitor blood donations :
+Maintain donation records and update blood stock automatically after successful donations.
+4.To process blood requests quickly ;
+Enable staff to create, update, and track blood requests from hospitals or patients.
+5.To provide blood availability search
+Allow users to check the availability of blood units based on blood groups.
+6.To reduce manual paperwork
+Replace traditional record-keeping methods with a centralized digital system.
+7.To improve data accuracy and reliability
+Minimize human errors, duplicate records, and data loss through computerized management.
+8.To support efficient decision-making
+Provide dashboards and reports that help staff monitor blood stock and donation activities.
+9.To implement CRUD operations :
+Enable Create, Read, Update, and Delete operations for donors, blood inventory, donations, and blood requests.
+10.To develop a user-friendly web application ;
+Build an intuitive and responsive interface using React and Bootstrap for easy system usage.
+
+Overall Objective :
+To design and develop a secure, efficient, and user-friendly Blood Bank Management System that automates blood bank operations, improves blood inventory management, and ensures timely access to blood-related information through a web-based platform.
